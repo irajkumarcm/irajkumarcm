@@ -16,15 +16,20 @@ I'm a software development engineer.
 - ⚡ Fun fact : You know, who I'm!! 😜
 
 ## Stack I work with
-<code><img height="50" src=""></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
